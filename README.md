@@ -1,4 +1,4 @@
 # Centralized-Examination-System
-How to run thi?
+How to run this?
 
 For this you will need xampp.
