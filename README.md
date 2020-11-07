@@ -6,7 +6,7 @@
 1. Ragini Chauragade - 141903002
 2. Shvani Dhok - 141903004
 
-#This is Database Management System Course Project.
+# This is Database Management System Course Project.
 
 # Technology Used : 
 Frontend - HTML
